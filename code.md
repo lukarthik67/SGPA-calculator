@@ -1,3 +1,4 @@
+```python
 def calculate_sgpa():
     name = input("Enter your name: ")
     usn = input("Enter your USN: ")
@@ -43,3 +44,4 @@ def calculate_sgpa():
 
 
 calculate_sgpa()
+```
