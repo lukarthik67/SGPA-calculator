@@ -29,7 +29,7 @@ def calculate_sgpa():
         elif marks >= 10:
             grade_point = 2
         else:
-            grade_point = 1
+            grade_point = 1 
 
         credit = int(input(f"Enter credit of Subject {i}: "))
         total_credits += credit
