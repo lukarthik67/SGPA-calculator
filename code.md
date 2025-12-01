@@ -45,3 +45,4 @@ def calculate_sgpa():
 
 calculate_sgpa()
 ```
+#i updated
