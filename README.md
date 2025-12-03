@@ -1,6 +1,6 @@
 # SGPA-calculator <br>
 A simple SGPA (Semester Grade Point Average) calculator built using Python. It uses functions, if-else conditions, and for loops to calculate SGPA based on user input of grades and credits.<br>
-       # Algorithm <br>
+       # Algorithm <br> 
 step 1: input user name.<br>
 step 2: input user USN.<br>
 step 3: input number of sujects user have.<br>
